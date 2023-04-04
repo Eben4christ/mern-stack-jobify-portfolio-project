@@ -1,0 +1,3 @@
+/node_modules
+.env
+MONGODB_URL = mongodb+srv://Ebene4christ:Teacher01@cluster0.dc1t8st.mongodb.net/JobifyDB?retryWrites=true&w=majority
